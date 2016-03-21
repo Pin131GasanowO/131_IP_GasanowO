@@ -72,7 +72,6 @@
     <Content Include="Organization.html" />
     <Content Include="Works.html" />
     <Content Include="Index.html" />
-    <Content Include="Client Comments.html" />
     <Content Include="Requizits.html" />
     <Content Include="Workers.html" />
   </ItemGroup>
