@@ -66,15 +66,15 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
-    <Content Include="Контактная информация.html" />
-    <Content Include="Контакты.html" />
-    <Content Include="Наша история.html" />
-    <Content Include="Наша организация.html" />
-    <Content Include="Оказываемые услуги.html" />
-    <Content Include="Основа.html" />
-    <Content Include="Отзывы клиентов.html" />
-    <Content Include="Реквизиты.html" />
-    <Content Include="Сотрудники.html" />
+    <Content Include="Contact Information.html" />
+    <Content Include="Contacts.html" />
+    <Content Include="History.html" />
+    <Content Include="Organization.html" />
+    <Content Include="Works.html" />
+    <Content Include="Index.html" />
+    <Content Include="Client Comments.html" />
+    <Content Include="Requizits.html" />
+    <Content Include="Workers.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
