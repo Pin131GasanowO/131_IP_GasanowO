@@ -65,7 +65,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Shablon.html" />
     <Content Include="Web.config" />
     <Content Include="Contact Information.html" />
     <Content Include="Contacts.html" />
