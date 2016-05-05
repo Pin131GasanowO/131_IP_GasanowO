@@ -65,6 +65,23 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="News 01.html" />
+    <Content Include="News 02.html" />
+    <Content Include="News 03.html" />
+    <Content Include="News 04.html" />
+    <Content Include="News 05.html" />
+    <Content Include="News 06.html" />
+    <Content Include="News 07.html" />
+    <Content Include="News 08.html" />
+    <Content Include="News 10.html" />
+    <Content Include="News 11.html" />
+    <Content Include="News 12.html" />
+    <Content Include="News 13.html" />
+    <Content Include="News 14.html" />
+    <Content Include="News 15.html" />
+    <Content Include="News 09.html" />
+    <Content Include="News 16.html" />
+    <Content Include="News.html" />
     <Content Include="Web.config" />
     <Content Include="Contact Information.html" />
     <Content Include="Contacts.html" />
